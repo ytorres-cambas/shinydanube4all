@@ -1,4 +1,4 @@
-# shinydanube4all
+# danubefishiny
 
 # Shiny App: danubefishiny
 
@@ -35,13 +35,16 @@ To run this app locally, you need to have R and the required packages installed.
    ```bash
    R
    library(shiny)
-   runApp("path/to/your/app.R")  # Replace with the path to your app file
+   runApp("path/to/the/danubefishiny.R")  # Replace with the path to the app file
 
 ## Usage
 
 Once the app is running, you can:
+
     1. Select species and filter the data using the sidebar.
+    
     2. View the filtered occurrences on the map.
+    
     3. Generate various plots based on the selected data.
     
 ## Contributing
@@ -54,3 +57,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgements
 
+Funding was provided by the European Union’s Horizon Europe research and innovation programme through the project DANUBE4all (grant agreement no. 101093985).
