@@ -2,7 +2,7 @@
 
 # Shiny App: danubefishiny
 
-![danubefishiny](path/to/your/screenshot.png) <!-- Optional: Add a screenshot of your app -->
+![danubefishiny](/data/bitmap.png) <!-- Optional: Add a screenshot of your app -->
 
 ## Description
 
