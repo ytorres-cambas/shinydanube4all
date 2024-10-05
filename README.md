@@ -21,7 +21,6 @@ To run this app locally, you need to have R and the required packages installed.
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/your-repo-name.git
-   ```bash
 
 2. Navigate to the project directory:
  ```bash
