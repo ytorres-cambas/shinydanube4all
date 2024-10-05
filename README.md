@@ -27,6 +27,7 @@ To run this app locally, you need to have R and the required packages installed.
    cd your-repo-name
 
 3. Open R and install the required packages:
+```r
 R
 install.packages(c("shiny", "leaflet", "plotly", "dplyr", "sf", "bsicons"))
 
