@@ -2,16 +2,16 @@
 
 # Shiny App: [danubefishiny]
 
-![App Screenshot](path/to/your/screenshot.png) <!-- Optional: Add a screenshot of your app -->
+![danubefishiny](path/to/your/screenshot.png) <!-- Optional: Add a screenshot of your app -->
 
 ## Description
 
-[Your App Name] is a Shiny application designed for [briefly describe the purpose of your app, e.g., visualizing fish species occurrences in the Danube River Basin]. This app allows users to [describe key features, e.g., filter species, view occurrences on a map, and generate reports].
+[danubefishiny] is a Shiny application designed for visualizing fish species occurrences in the Danube River Basin. This app allows users to filter species, view occurrences on a map, and generate reports.
 
 ## Features
 
-- Interactive map showing [description of what the map displays].
-- Filter options for species, year, locality, and country.
+- Interactive map and table showing fish species occurrences.
+- Filter options for species, year, locality, country and dataset.
 - Dynamic visualizations such as pie charts and bar charts to represent data.
 
 ## Installation
