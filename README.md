@@ -20,21 +20,22 @@ To run this app locally, you need to have R and the required packages installed.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/ytorres-cambas/shinydanube4all.git
 
 2. Navigate to the project directory:
- ```bash
-   cd your-repo-name
+    ```bash
+    cd your-repo-name
 
 3. Open R and install the required packages:
-```r
-R
-install.packages(c("shiny", "leaflet", "plotly", "dplyr", "sf", "bsicons"))
+   ```bash
+   R
+   install.packages(c("shiny", "leaflet", "plotly", "dplyr", "sf", "bsicons"))
 
 4. Run the app:
-R
-library(shiny)
-runApp("path/to/your/app.R")  # Replace with the path to your app file
+   ```bash
+   R
+   library(shiny)
+   runApp("path/to/your/app.R")  # Replace with the path to your app file
 
 ## Usage
 
