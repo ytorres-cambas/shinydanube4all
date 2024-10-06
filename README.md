@@ -6,7 +6,8 @@
 
 ## Description
 
-danubefishiny is a Shiny application designed for visualizing fish species occurrences in the Danube River Basin. This app allows users to filter species, view occurrences on a map, and generate reports.
+[danubefishiny](https://y-torres-cambas.shinyapps.io/danubefishiny/)
+ is a Shiny application designed for visualizing fish species occurrences in the Danube River Basin. This app allows users to filter species, view occurrences on a map, and generate reports.
 
 ## Features
 
