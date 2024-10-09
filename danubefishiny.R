@@ -4,6 +4,7 @@ library(leaflet.extras)  # For drawing tools
 library(dplyr)
 library(plotly)
 library(RColorBrewer)
+library(bslib)
 library(sf)
 library(DT)  # For the scrollable table
 
